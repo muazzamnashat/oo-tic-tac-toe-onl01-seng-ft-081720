@@ -139,3 +139,6 @@ class TicTacToe
     end
     
 end
+
+new=TicTacToe.new
+new.play
